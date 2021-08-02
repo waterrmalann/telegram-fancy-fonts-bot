@@ -5,6 +5,7 @@ A simple Telegram bot that runs inline and converts your input into cool looking
 ### Example Usage
 
 > **[Input]** `The quick brown fox jumps over the lazy dog.`
+>
 > **[Example Output]** `𝓣𝓱𝓮 𝓺𝓾𝓲𝓬𝓴 𝓫𝓻𝓸𝔀𝓷 𝓯𝓸𝔁 𝓳𝓾𝓶𝓹𝓼 𝓸𝓿𝓮𝓻 𝓽𝓱𝓮 𝓵𝓪𝔃𝔂 𝓭𝓸𝓰.`
 
 There are a lot more pre-defined fonts. The above example is my personal favourite defined as "Script" in the fonts file.

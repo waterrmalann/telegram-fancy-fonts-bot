@@ -1,9 +1,27 @@
 [
     {
-        "fontName": "Circled",
+        "fontName": "Bubbles",
         "fontLower": "ⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩ",
         "fontUpper": "ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ",
-        "fontDigits": ""
+        "fontDigits": "⓪①②③④⑤⑥⑦⑧⑨"
+    },
+    {
+        "fontName": "BubbleBlack",
+        "fontLower": "🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩",
+        "fontUpper": "🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩",
+        "fontDigits": "⓿➊➋➌➍➎➏➐➑➒"
+    },
+    {
+        "fontName": "Parenthesis",
+        "fontLower": "⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵",
+        "fontUpper": "⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵",
+        "fontDigits": "0⑴⑵⑶⑷⑸⑹⑺⑻⑼"
+    },
+    {
+        "fontName": "SuperScript",
+        "fontLower": "ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖqʳˢᵗᵘᵛʷˣʸᶻ",
+        "fontUpper": "ᴬᴮᶜᴰᴱᶠᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾQᴿˢᵀᵁⱽᵂˣʸᶻ",
+        "fontDigits": "⁰¹²³⁴⁵⁶⁷⁸⁹"
     },
     {
         "fontName": "FullWidth",
@@ -60,6 +78,36 @@
         "fontDigits": ""
     },
     {
+        "fontName": "Russian",
+        "fontLower": "абcдёfgнїjкгѫпѳpфя$тцѵщжчз",
+        "fontUpper": "АБCДЄFGHЇJКГѪЙѲPФЯ$TЦѴШЖЧЗ",
+        "fontDigits": ""
+    },
+    {
+        "fontName": "Japanese",
+        "fontLower": "卂乃匚ᗪ乇千Ꮆ卄丨ﾌҜㄥ爪几ㄖ卩Ɋ尺丂ㄒㄩᐯ山乂ㄚ乙",
+        "fontUpper": "卂乃匚ᗪ乇千Ꮆ卄丨ﾌҜㄥ爪几ㄖ卩Ɋ尺丂ㄒㄩᐯ山乂ㄚ乙",
+        "fontDigits": ""
+    },
+    {
+        "fontName": "Arabic",
+        "fontLower": "ค๒ς๔єŦﻮђเןкl๓ภ๏קợгรtยשฬץאz",
+        "fontUpper": "ค๒ς๔єŦﻮђเןкl๓ภ๏קợгรtยשฬץאz",
+        "fontDigits": ""
+    },
+    {
+        "fontName": "Fairy",
+        "fontLower": "ᏗᏰፈᎴᏋᎦᎶᏂᎥᏠᏦᏝᎷᏁᎧᎮᎤᏒᏕᏖᏬᏉᏇጀᎩፚ",
+        "fontUpper": "ᏗᏰፈᎴᏋᎦᎶᏂᎥᏠᏦᏝᎷᏁᎧᎮᎤᏒᏕᏖᏬᏉᏇጀᎩፚ",
+        "fontDigits": ""
+    },
+    {
+        "fontName": "Wizard",
+        "fontLower": "ǟɮƈɖɛʄɢɦɨʝӄʟʍռօքզʀֆȶʊʋաӼʏʐ",
+        "fontUpper": "ǟɮƈɖɛʄɢɦɨʝӄʟʍռօքզʀֆȶʊʋաӼʏʐ",
+        "fontDigits": ""
+    },
+    {
         "fontName": "Monospace",
         "fontLower": "𝚊𝚋𝚌𝚍𝚎𝚏𝚐𝚑𝚒𝚓𝚔𝚕𝚖𝚗𝚘𝚙𝚚𝚛𝚜𝚝𝚞𝚟𝚠𝚡𝚢𝚣",
         "fontUpper": "𝙰𝙱𝙲𝙳𝙴𝙵𝙶𝙷𝙸𝙹𝙺𝙻𝙼𝙽𝙾𝙿𝚀𝚁𝚂𝚃𝚄𝚅𝚆𝚇𝚈𝚉",
@@ -84,6 +132,12 @@
         "fontDigits": ""
     },
     {
+        "fontName": "Funky",
+        "fontLower": "αв¢∂єƒgнιנкℓмησρqяѕтυνωχуz",
+        "fontUpper": "αв¢∂єƒgнιנкℓмησρqяѕтυνωχуz",
+        "fontDigits": ""
+    },
+    {
         "fontName": "Acute",
         "fontLower": "ábćdéfǵhíjḱĺḿńőṕqŕśtúvẃxӳź",
         "fontUpper": "ÁBĆDÉFǴHíJḰĹḾŃŐṔQŔśTŰVẂXӲŹ",
@@ -104,7 +158,7 @@
     {
         "fontName": "Inverted",
         "fontLower": "ɐqɔpǝɟƃɥıɾʞןɯuodbɹsʇnʌʍxʎz",
-        "fontUpper": "ɐqɔpǝɟƃɥıɾʞןɯuodbɹsʇn𐌡ʍxʎz",
-        "fontDigits": ""
-    }
+        "fontUpper": "∀ᗺƆᗡƎℲ⅁HIſꓘ˥WNOԀტᴚS⊥∩ΛMX⅄Z",
+        "fontDigits": "0ƖᘔƐ߈95ㄥ86"
+    }  
 ]
